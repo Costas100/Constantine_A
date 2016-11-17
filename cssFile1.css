@@ -24,3 +24,16 @@ body{
     background: Wheat;
     border: 1em groove;
 }
+
+
+div{
+    color: Blue;
+}
+
+.extreme{
+    text-style: italic;
+}
+
+#head1{
+    text-decoration: overline;
+}

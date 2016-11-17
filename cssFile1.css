@@ -27,13 +27,32 @@ body{
 
 
 div{
-    color: Blue;
+    color: DarkMagenta;
 }
 
 .extreme{
-    text-style: italic;
+    opacity: 0.4;
 }
 
 #head1{
+    text-shadow: 3px 1.5px;
     text-decoration: overline;
 }
+
+.navzone{
+    color: Yellow;
+}
+
+#tehlulz{
+    color: Blue;
+}
+
+.content{
+    font-family: "Times New Roman", Times, serif;
+    opacity: 0.3;
+}
+
+.prose{
+    text-decoration: line-through; 
+}
+

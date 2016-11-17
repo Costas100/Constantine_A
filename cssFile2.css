@@ -24,3 +24,34 @@ body{
     background: DarkSeaGreen;
     border: .5em double red;
 }
+
+div{
+    color: Aqua;
+}
+
+.extreme{
+    opacity: 0.7;
+}
+
+#head1{
+    text-shadow: 1.5px 3px;
+    text-decoration: line-through;
+}
+
+.navzone{
+    color: DeepPink;
+}
+
+#tehlulz{
+    color: Green;
+}
+
+.content{
+    font-family: Arial, helvetica, sans-serif;
+    opacity: 0.5;
+}
+
+.prose{
+    text-decoration: overline; 
+}
+

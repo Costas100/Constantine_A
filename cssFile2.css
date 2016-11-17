@@ -1,0 +1,26 @@
+h1{
+    color: LemonChiffon;
+    font-style: normal;
+    text-align: left;
+    text-decoration: overline;
+}
+
+h3{
+    color: LightCyan;
+    text-shadow: 2.5px .3px;
+}
+
+h2{
+    color: LightCyan;
+    font-style: oblique;
+}
+
+p{
+    text-align: right;
+    color: DarkGoldenRod;
+}
+
+body{
+    background: DarkSeaGreen;
+    border: .5em double red;
+}

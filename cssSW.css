@@ -1,0 +1,93 @@
+body{
+    background: Black;
+    border: .5em double blue;
+}
+
+
+.header {
+    font-style: oblique;
+    animation-name : colorchange;
+    animation-duration : 3.5s;
+    animation-iteration-count: infinite;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+@keyframes colorchange {
+    0% {color: #EFDE7C}
+    20% {color: #FFB49A}
+    40% {color:#467209}
+    60% {color: #A80B2D}
+    80% {color: #1C88E3}
+    100% {color: #492710}
+}
+
+.masters{
+    font-style: italic;
+}
+
+h3{
+    text-shadow: .5px .9px;
+}
+
+.jedi{
+    color: Green;
+}
+
+.sith{
+    color: Red;
+}
+
+li{
+    color: #E2D328;
+}
+
+a:link{
+    color: #C3DBC5;
+}
+
+a:visited{
+    color: Magenta;
+}
+
+a:hover{
+    color: Yellow;
+}
+
+a:active{
+    color: Orange;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.content{
+    color: #ADCAD6;
+}
+
+.prose{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.content:hover{
+    cursor:pointer;
+}
+
+span:hover{
+    cursor:help;
+}
+
+
+.end{
+    color: Gold;
+    text-align: center;
+    text-decoration: line-through;
+    opacity: .45;
+    text-shadow: .2px 2px;
+}
+

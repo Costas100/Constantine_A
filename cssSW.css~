@@ -1,0 +1,62 @@
+body{
+    background: Black;
+    border: .5em double blue;
+}
+
+
+.extreme{
+    color: Yellow;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#head1{
+    font-style: oblique;
+    animation-type: colorchange;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes colorchange{
+    0% {color: EFDE7C}
+    20% {color: FFB49A}
+    40% {color:467209}
+    60% {color: A80B2D}
+    80% {color: 1C88E3}
+    100% {color: white}
+}
+
+.masters{
+    font-style: italic;
+}
+
+h3{
+    text-shadow: .5px .9px;
+}
+
+.jedi{
+    color: Green;
+}
+
+.sith{
+    color: Red;
+}
+
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.content{
+    color: White;
+}
+
+.end{
+    color: Gold;
+    text-align: center;
+    text-decoration: line-through;
+    opacity: .45;
+    text-shadow: .2px 2px;
+}
+

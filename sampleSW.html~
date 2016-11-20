@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Star Wars</title>
+    <link rel="stylesheet" type="text/css" href="cssFile1.css">
+  </head>
+
+  <body>
+    <div class="extreme"> 
+      <div id="head1">
+	<h1>STAR WARS: I call it luck</h1>
+      </div>
+    </div>
+
+    <div class="masters">
+      <h3>Jedi Masters</h3>
+      <ul>
+	<li>
+	  <a href="https://en.wikipedia.org/wiki/Yoda">
+	    Yoda
+	</a></li>
+	<li>
+	  <a href="https://en.wikipedia.org/wiki/Qui-Gon_Jinn">
+	    Qui-Gon Jinn
+	</a></li>
+	<li>
+	  <a href="https://en.wikipedia.org/wiki/Obi-Wan_Kenobi">
+	    Obi-Wan Kenobi
+	</a></li>
+
+    
+    <p>Obi-Wan is here. The Force is with him. Look, I can take you as far as Anchorhead. You can get a transport there to Mos Eisley or wherever you're going. Your eyes can deceive you. Don't trust them.
+    </p>
+
+    
+
+      
+      
